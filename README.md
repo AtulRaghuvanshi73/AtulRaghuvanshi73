@@ -1,5 +1,5 @@
-![MasterHead]("C:\Users\atulr\Downloads\github-header-image.png")
-<!--<h1 align="center">Hi 👋, I'm Atul Raghuvanshi</h1> -->
+<!-- ![MasterHead]("C:\Users\atulr\Downloads\github-header-image.png") -->
+<h1 align="center">Hi 👋, I'm Atul Raghuvanshi</h1> 
 <h3 align="center">A developer, from India💻⌨️💽</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
