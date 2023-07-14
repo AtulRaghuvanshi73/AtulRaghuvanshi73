@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
-<h1 align="center">I like mobile working on applications, microcontrollers and Artificial Intelligence</h1>
+<h1 align="center">I like working on mobile applications, microcontrollers and Artificial Intelligence</h1>
 
 <!--<img align="right" alt="Coding" height = "300" width="300" src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/200w.gif?cid=6c09b9528br7ivpltea541sst9x032b2o7kdypuce44651jl&ep=v1_gifs_search&rid=200w.gif&ct=g">-->
 
