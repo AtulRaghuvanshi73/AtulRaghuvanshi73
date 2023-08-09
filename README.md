@@ -14,7 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AtulRaghuvanshi73&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 <div align="left">
   
-  <img src="https://streak-stats.demolab.com?user=AtulRaghuvanshi73&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&date_format=M j[, Y]" height="210" alt="streak graph"  /><br><br>
+  <img src="https://streak-stats.demolab.com?user=AtulRaghuvanshi73&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&date_format=M j[, Y]" height="210" alt="streak graph"  /><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtulRaghuvanshi73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="190" alt="languages graph"  />
 </div>
 
