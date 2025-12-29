@@ -2,7 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-raghuvanshi/) &nbsp;&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ronin7_3) &nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://atulraghuvanshisportfolio.netlify.app/) &nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghuvanshiatul627@gmail.com)
+
 
 ---
 
